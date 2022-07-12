@@ -1,0 +1,323 @@
+[
+    {
+        "title": "Vidaus durys",
+        "icon": "bi-gear-fill",
+        "photo": "nera",
+        "submeniu": [
+            {
+                "title": "Laminuotos",
+                "icon": "bi-house-fill",
+                "photo": "nera",
+                "path": "/",
+                "submeniu": [
+                    {
+                        "title": "INVADO",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-invado_150x180.jpg"
+
+                    },
+                    {
+                        "title": "ERKADO",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-erkado_150x180.jpg"
+
+                    },
+                    {
+                        "title": "DRE",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-dre_150x180.jpg"
+
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-polskone_150x180.jpg"
+
+                    },
+                    {
+                        "title": "el'PORTA",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-elporta_150x180.jpg"
+
+                    },
+                    {
+                        "title": "PORTA",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-porta_150x180.jpg"
+
+                    },
+                    {
+                        "title": "Profil Doors",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/dazytos-vidaus-durys-profildoors_150x180.png"
+
+                    },
+                    {
+                        "title": "Verte",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-verte_150x180.jpg"
+
+                    },
+                    {
+                        "title": "Sandėliuojamos",
+                        "icon": "bi-house-fill",
+                        "photo": "https://www.duruplaneta.lt/images/stories/virtuemart/category/resized/laminuotos-vidaus-durys-sandeliuojamos_150x180.jpg"
+
+                    }
+                ]
+            },
+            {
+                "title": "Faneruotos",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            },
+            {
+                "title": "Dažytos",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            },
+            {
+                "title": "Techninės",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            },
+            {
+                "title": "Stiklinės",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            },
+            {
+                "title": "Stumdomos",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Lauko durys",
+        "icon": "bi-info-circle-fill",
+        "submeniu": [
+            {
+                "title": "Buto",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            },
+            {
+                "title": "Namo",
+                "icon": "bi-phone-fill",
+                "submeniu": [
+                    {
+                        "title": "DRE",
+                        "icon": "bi-facebook",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Porta",
+                        "icon": "bi-twitter",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Polskone",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    },
+                    {
+                        "title": "Naujas stilius",
+                        "icon": "bi-instagram",
+                        "photo": "nera"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Profile",
+        "icon": "bi-person-fill",
+        "submeniu": [
+            {
+                "title": "Profile",
+                "path": "/profile"
+            },
+            {
+                "title": "Settings",
+                "submeniu": [
+                    {
+                        "title": "Account",
+                        "path": "/settings/account"
+                    },
+                    {
+                        "title": "Billing",
+                        "submeniu": [
+                            {
+                                "title": "Payment",
+                                "path": "/settings/billing/payment"
+                            },
+                            {
+                                "title": "Subscription",
+                                "path": "/settings/billing/subscription"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Notifications",
+                        "path": "/settings/notifications"
+                    }
+                ]
+            },
+            {
+                "title": "Logout",
+                "path": "/logout"
+            }
+        ]
+    },
+    {
+        "title": "Advance",
+        "icon": "bi-view-list",
+        "submeniu": [
+            {
+                "title": "Search",
+                "path": "/search"
+            },
+            {
+                "title": "History",
+                "path": "/history"   
+            }
+        ]
+    },
+    {
+        "title": "Support",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Report Bug",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    }
+]

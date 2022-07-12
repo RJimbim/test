@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(194, 194, 194);
+}
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+}
+.nav-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid brown;
+    background-color: blueviolet;
+}
+.nav-card.open {
+    /* color: red; */
+    border: 1px solid red;
+}
+.nav-card.item {
+    color: bisque;
+    text-decoration: none;
+
+}
+.nav-card-title {
+border: 1px solid green;
+color: aquamarine;
+}
+.nav-content {
+    display: none;
+}
+.nav-content.open {
+    display: flex;
+    border: 2px solid rgb(251, 255, 0);
+}
+.nav-img {
+    /* height: 180px; */
+    width: 81px;
+}
+.dropdown.open {
+    display: flex;
+    flex-direction: column;
+}
+.dropdown.closed {
+    display: none;
+}
